@@ -43,12 +43,12 @@ JSON-based structure:
 
 ### License
 
-To be determined (possibly MIT or Creative Commons BY-SA).
+Source code: MIT License
+Data: CC-BY-SA
 
 ### Author
 
-Hilo Yamamoto and collaborators.
+Hilofumi Yamamoto, Ph.D.
+Institute of Science Tokyo
 
 ---
-
-（このREADMEは今後の実装に応じて適宜拡張されます）
