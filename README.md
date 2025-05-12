@@ -50,5 +50,3 @@ Data: CC-BY-SA
 
 Hilofumi Yamamoto, Ph.D.
 Institute of Science Tokyo
-
----
