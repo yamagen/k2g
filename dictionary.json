@@ -1,0 +1,32 @@
+[
+  {
+    "surface": "けり",
+    "base": "けり",
+    "gloss": "PST.REP",
+    "features": ["aux", "past", "reportative"]
+  },
+  {
+    "surface": "なり",
+    "base": "なり",
+    "gloss": "COP",
+    "features": ["aux", "copula"]
+  },
+  {
+    "surface": "を",
+    "base": "を",
+    "gloss": "ACC",
+    "features": ["particle", "case"]
+  },
+  {
+    "surface": "恋ひ",
+    "base": "恋ふ",
+    "gloss": "to long for",
+    "features": ["verb", "stem"]
+  },
+  {
+    "surface": "人",
+    "base": "人",
+    "gloss": "person",
+    "features": ["noun"]
+  }
+]
