@@ -1,0 +1,42 @@
+# C言語のビルド成果物
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+*.log
+*.core
+*.gch
+
+# Cのバックアップや中間生成物
+*.swp
+*~
+# C言語で出力されるバイナリ辞書など
+*.kmf
+
+# LaTeX関連ファイル
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.pdf
+
+# 編集支援ファイル
+*.bak
+*.tmp
+
+# OS・エディタ固有ファイル
+.DS_Store
+Thumbs.db
