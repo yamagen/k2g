@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "date": "Last change: 2025/05/12-16:58:19.",
+  "PST": {
+    "label": "過去時制",
+    "category": "tense"
+  },
+  "ACC": {
+    "label": "対格",
+    "category": "case"
+  },
+  "COP": {
+    "label": "断定助動詞",
+    "category": "auxiliary"
+  },
+  "REP": {
+    "label": "伝聞・推定",
+    "category": "modality"
+  },
+  "NEG": {
+    "label": "否定",
+    "category": "polarity"
+  },
+  "HON": {
+    "label": "尊敬語",
+    "category": "honorific"
+  },
+  "verb": {
+    "label": "動詞",
+    "category": "POS"
+  },
+  "noun": {
+    "label": "名詞",
+    "category": "POS"
+  },
+  "aux": {
+    "label": "助動詞",
+    "category": "POS"
+  },
+  "stem": {
+    "label": "語幹",
+    "category": "form"
+  }
+}

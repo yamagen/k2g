@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "date": "Last change: 2025/05/12-17:02:21.",
+  "PST": {
+    "label": "past tense",
+    "category": "tense"
+  },
+  "ACC": {
+    "label": "accusative case",
+    "category": "case"
+  },
+  "COP": {
+    "label": "copula",
+    "category": "auxiliary"
+  },
+  "REP": {
+    "label": "reportative",
+    "category": "modality"
+  },
+  "NEG": {
+    "label": "negation",
+    "category": "polarity"
+  },
+  "HON": {
+    "label": "honorific",
+    "category": "honorific"
+  },
+  "verb": {
+    "label": "verb",
+    "category": "POS"
+  },
+  "noun": {
+    "label": "noun",
+    "category": "POS"
+  },
+  "aux": {
+    "label": "auxiliary verb",
+    "category": "POS"
+  },
+  "stem": {
+    "label": "word stem",
+    "category": "form"
+  }
+}
