@@ -1,0 +1,17 @@
+{
+  "ADV.F": "adverbial form: a form that connects to auxiliary verbs or functions adverbially. Ex: ikite, yominu.",
+  "ATTR": "attributive: a form used to modify nouns. Often seen in adjectives or auxiliary verbs. Ex: yomeru uta.",
+  "STAT": "stative: expresses states or conditions rather than actions. Ex: ari, tari.",
+  "STAT.ATTR": "stative attributive: attributive form of stative auxiliaries like 'ri'. Ex: yomeru.",
+  "COMP.ATTR": "completive attributive: attributive form of auxiliaries indicating completion or emphasis, such as 'nu' or 'tsu'. Ex: okonainuru.",
+  "NEG.BASE": "negation base: the base form that connects to negative, irrealis, causative, passive, or potential expressions. Ex: ikazu, yomaseru.",
+  "REALIS.F": "realis form: a form used in contexts assuming the truth of an event, such as conditions or concessives. Ex: ikeba, yomedomo.",
+  "IMPER.F": "imperative form: the form used to express direct commands. Ex: ike, yome.",
+  "VOL.F": "volitional form: expresses intention or suggestion. Ex: ikou, yomou.",
+  "LEX.F": "lexical form: the base dictionary form, used as the citation form and for plain present/future tense. Ex: iku, yomu.",
+  "COND.F": "conditional form: form used in modern Japanese for conditional expressions with 'ba'. Ex: tabereba, ikeba.",
+  "EXC": "exclamative: used to express emotion through exclamatory expressions or particles. Ex: ana, kana.",
+  "EMPH": "emphatic: used to emphasize elements in a sentence, such as the particles 'shi' or 'koso'.",
+  "REPT": "repetitive: expression using word repetition for emphasis or continuity. Ex: madohi-madou.",
+  "FOC.PRT": "focus particle: a particle that emphasizes part of a sentence, such as dani, sura, sae."
+}
