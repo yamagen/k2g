@@ -1,0 +1,213 @@
+{
+  "Last change": "Last change: 2025/05/31-13:23:00.",
+  "title": "土佐日記",
+  "title_kana": "とさにっき",
+  "title_roman": "Tosa Nikki",
+  "author": "紀貫之",
+  "author_kana": "きのつらゆき",
+  "author_roman": "Ki no Tsurayuki",
+  "project": "土佐日記 翻訳プロジェクト",
+  "policy": {
+    "原則": [
+      "原文に忠実な逐語訳（translation-ja, translation-en）と、自然な意訳（translation-ja-natural, translation-en-natural）の両方を記録する。",
+      "逐語訳では、原文に含まれない語句や意味を追加しない。",
+      "自然な訳では、語りの意図や話者の心理・場面の雰囲気を補足的に反映させるが、過剰な意訳は避ける。"
+    ],
+    "言語表現に関する方針": [
+      "仮名日記の現在性を重視し、逐語訳では原則として現在形を使用する。",
+      "品詞や助詞の意味は原則として変化していないという立場を取る。",
+      "現代語訳で助詞の役割が不明瞭になる場合でも、文法変化とせず即時的な意識の流れと理解する。"
+    ],
+    "注釈とノート": [
+      "重要な訳語の意味・文脈・語釈・語感の注記は notes-ja に記載する。",
+      "曖昧な文、語、表現の訳は、逐語訳であっても明確な理由を添える。",
+      "掛詞や洒落、意図的な文体技法がある場合は、notes-ja にて丁寧に記録する。"
+    ],
+    "翻訳運営方式": [
+      "原文提示後、まず逐語訳（translation-ja, translation-en）を作成する。",
+      "逐語訳に基づき、phrase gloss（句単位と語単位の意味対応）を記述する。",
+      "phrase gloss をもとに自然な訳（translation-ja-natural, translation-en-natural）を作成する。",
+      "自然な訳では、基本的に phrase gloss に忠実な表現を心がける。",
+      "自然な訳でも補いきれない語釈・意味の背景・語感の補足は notes-ja/en に記載する。",
+      "物語演出、心理描写、文化的背景、構成上の工夫など、より広い視点の解説が必要な場合は commentary-ja/en に記載する。",
+      "詠嘆表現については、逐語訳ではエクスクラメーションマーク（!）を使用し、glossでは 'EXCL'（詠嘆）と 'Q'（疑問）を文脈に応じて使い分ける。助動詞『けり』などは 'PAST.EXCL' と記述する。"
+    ]
+  },
+  "text": "（原文）template",
+  "translation-ja": "（逐語訳）template",
+  "translation-en": "（逐語訳）template",
+  "phrase-gloss": [
+    {
+      "phrase": "（句）template",
+      "gloss": "（句全体の意味）template",
+      "words": [{ "word": "語", "gloss": "…template" }]
+    }
+  ],
+  "translation-ja-natural": "（自然な訳）template",
+  "translation-en-natural": "（自然な訳）template",
+  "gloss-notes方針": [
+    "gloss-notes-ja/en は、通常の gloss（語単位の基本的意味記述）では説明が十分でない場合にのみ記述する。",
+    "記述対象となるのは、語義の特別な解釈、文脈上の特異な意味、時代背景による意味シフト、または誤解されやすい表現である。",
+    "語義が一般的かつ文脈上自然である場合には、gloss-notes-ja/en の記載を省略する。",
+    "gloss-notes-ja/en の各エントリは { \"term\": \"語句\", \"note\": \"注釈\" } の形式で記述する。",
+    "gloss-notes-ja/en を記載した場合、notes-ja/en との重複を避け、役割を明確に区別する。"
+  ],
+  "style-guidelines": {
+    "逐語訳": {
+      "translation-ja": "原文の語順・語義に忠実であり、主観的な解釈を加えない。仮名日記では語りの現在性を重視し、現在形を使用する。",
+      "translation-en": "Each word or phrase is translated strictly according to the original Japanese, avoiding added nuance or interpretation. For kana diaries, present tense is used to reflect the immediacy of narration.",
+      "注記": "語順や主語の不明瞭さを維持するが、仮名日記に限り語り手の視点として「we」など主語補完を必要に応じて許容する。"
+    },
+    "自然な訳": {
+      "translation-ja-natural": "現代日本語として自然で感情や文体に合った表現に整える。",
+      "translation-en-natural": "Fluent and emotionally resonant English, faithful in meaning but adjusted for natural flow and tone.",
+      "注記": "語りの口調や諦めのニュアンスなど、文体の雰囲気を反映する。"
+    },
+    "逐語訳優先基準": [
+      "語の対応を最優先とする",
+      "主語を補わず、原文の構造にできるだけ忠実に（ただし仮名日記では例外的に主語補完可）",
+      "助詞や終助詞の機能も訳出する（例：「もがな」→ “I wish…”）",
+      "和歌の翻訳では原文にない比喩や脚色を加えない"
+    ]
+  },
+  "teihon": "底本: 国文学研究資料館蔵『土佐日記』影印版",
+  "explanation": "底本影印を参考に、国文学研究資料館および国立情報学研究所 CODH の『土佐日記』画像を参照した。翻刻は公開資料を基に独自に校訂を行った。それを元に校訂文、現代語訳、英訳を作成している。\n\n参考底本: 丸岡桂, 松下大三郎 共編『国文大観』９　日記草子部,板倉屋書房,明治36. 国立国会図書館デジタルコレクション:info:ndljp/pid/991361/1/3\n\nhttps://ja.wikisource.org/wiki/土佐日記_(國文大觀)",
+  "koutei": "校訂: 国文学研究資料館底本に基づく独自校訂",
+  "honkoku": "翻刻: 国文学研究資料館影印、国立情報学研究所 CODH 画像に基づく",
+  "eiinn": "影印: 国書データベース 国文学研究資料館蔵『土佐日記』",
+  "license": "CC BY-NC-SA 4.0",
+  "gloss document url": "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
+  "gloss document title": "Max Planck Institute Glossing Rules",
+  "gloss abbreviation": [
+    { "1": "first person" },
+    { "2": "second person" },
+    { "3": "third person" },
+    { "A": "agent-like argument of canonical transitive verb" },
+    { "ABL": "ablative" },
+    { "ABS": "absolutive" },
+    { "ACC": "accusative" },
+    { "ADJ": "adjective" },
+    { "ADV": "adverb(ial)" },
+    { "AGR": "agreement" },
+    { "ALL": "allative" },
+    { "ANTIP": "antipassive" },
+    { "APPL": "applicative" },
+    { "ART": "article" },
+    { "AUX": "auxiliary" },
+    { "BEN": "benefactive" },
+    { "CAUS": "causative" },
+    { "CLF": "classifier" },
+    { "COM": "comitative" },
+    { "COMP": "complementizer" },
+    { "COMPL": "completive" },
+    { "COND": "conditional" },
+    { "COP": "copula" },
+    { "CVB": "converb" },
+    { "DAT": "dative" },
+    { "DECL": "declarative" },
+    { "DEF": "definite" },
+    { "DEM": "demonstrative" },
+    { "DET": "determiner" },
+    { "DIST": "distal" },
+    { "DISTR": "distributive" },
+    { "DU": "dual" },
+    { "DUR": "durative" },
+    { "ERG": "ergative" },
+    { "EXC": "exclamation (詠嘆)" },
+    { "EXCL": "exclusive" },
+    { "F": "feminine" },
+    { "FOC": "focus" },
+    { "FUT": "future" },
+    { "GEN": "genitive" },
+    { "IMP": "imperative" },
+    { "INCL": "inclusive" },
+    { "IND": "indicative" },
+    { "INDF": "indefinite" },
+    { "INF": "infinitive" },
+    { "INS": "instrumental" },
+    { "INTR": "intransitive" },
+    { "IPFV": "imperfective" },
+    { "IRR": "irrealis" },
+    { "LOC": "locative" },
+    { "M": "masculine" },
+    { "N": "neuter" },
+    { "N-": "non- (e.g., NSG nonsingular, NPST nonpast)" },
+    { "NEG": "negation, negative" },
+    { "NMLZ": "nominalizer/nominalization" },
+    { "NOM": "nominative" },
+    { "OBJ": "object" },
+    { "OBL": "oblique" },
+    { "P": "patient-like argument of canonical transitive verb" },
+    { "PASS": "passive" },
+    { "PFV": "perfective" },
+    { "PL": "plural" },
+    { "POSS": "possessive" },
+    { "PRED": "predicative" },
+    { "PRF": "perfect" },
+    { "PRS": "present" },
+    { "PROG": "progressive" },
+    { "PROH": "prohibitive" },
+    { "PROX": "proximal/proximate" },
+    { "PST": "past" },
+    { "PTCP": "participle" },
+    { "PURP": "purposive" },
+    { "Q": "question particle/marker" },
+    { "QUOT": "quotative" },
+    { "RECP": "reciprocal" },
+    { "REFL": "reflexive" },
+    { "REL": "relative" },
+    { "RES": "resultative" },
+    { "S": "single argument of canonical intransitive verb" },
+    { "SBJ": "subject" },
+    { "SBJV": "subjunctive" },
+    { "SG": "singular" },
+    { "TOP": "topic" },
+    { "TR": "transitive" },
+    { "VOC": "vocative" }
+  ],
+  "Leipzig Glossary Rules": {
+    "section": "glossary",
+    "policy": {
+      "purpose": "このセクションは Leipzig Glossing Rules（LGR）に準拠した略号の定義のみを記載する。",
+      "content": "記載されるのは略号（例: PFV, LOC, QUOT など）と、その英語名称・日本語注釈の組である。",
+      "exclusions": [
+        "語や句そのものの意味・語釈",
+        "感情や場面説明など語用的補足",
+        "語りの主体や時間の導入句など意味的タグ"
+      ],
+      "format": {
+        "type": "dictionary",
+        "key": "LGR準拠の略号（全て大文字または標準略式）",
+        "value": "英語の用語名 + 日本語注釈（括弧付き）"
+      },
+      "example": {
+        "PFV": "perfective (完了)",
+        "QUOT": "quotative (引用)",
+        "LOC": "locative (場所格)"
+      },
+      "note": "phrase gloss で実際に使用された略号のみを記載し、未使用の略号は含めない。"
+    },
+    "phrase-gloss": [
+      {
+        "phrase": "Example....今日海に",
+        "gloss": "Example....today, in the sea",
+        "words": [
+          { "word": "今日", "gloss": "today" },
+          { "word": "海", "gloss": "sea" },
+          { "word": "に", "gloss": "LOC" }
+        ]
+      },
+      {
+        "phrase": "浪に似たる物なし",
+        "gloss": "there is nothing that resembles a wave",
+        "words": [
+          { "word": "浪", "gloss": "wave" },
+          { "word": "に", "gloss": "DAT" },
+          { "word": "似たる", "gloss": "resembling" },
+          { "word": "物", "gloss": "thing" },
+          { "word": "なし", "gloss": "NEG.exist" }
+        ]
+      }
+    ]
+  }
+}
